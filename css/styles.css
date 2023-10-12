@@ -40,13 +40,16 @@ body {
 .menu-link:focus {
   color: #404bbf;
 }
+.menu-adress-header {
+  font-style: normal;
+}
 .menu-adress-link {
   font-size: 16px;
-  font-style: normal;
+
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  /*color: #434455;*/
+  color: #434455;
   text-decoration: none;
 }
 .menu-adress-link:hover,
@@ -82,8 +85,11 @@ body {
 }
 
 /*==Feature==*/
-.feature {
+.feature-section {
   background: #fff;
+}
+.feature-main-header {
+  display: none;
 }
 .feature-item {
   list-style-type: none;
