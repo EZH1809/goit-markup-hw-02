@@ -73,6 +73,7 @@ body {
   letter-spacing: 0.04em;
   background: #4d5ae5;
   color: #fff;
+  cursor: pointer;
 }
 .btn-order:hover,
 .btn-order:focus {
@@ -116,10 +117,10 @@ body {
 }
 .team-item {
   list-style-type: none;
+  background-color: #ffffff;
 }
 .team-name {
   color: #2e2f42;
-
   font-size: 20px;
   font-weight: 500;
   line-height: 1.2;
