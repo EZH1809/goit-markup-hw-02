@@ -1,6 +1,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   background-color: #fff;
+  color: #434455;
 }
 /*==Header==*/
 .menu,
@@ -45,7 +46,7 @@ body {
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+  /*color: #434455;*/
   text-decoration: none;
 }
 .menu-adress-link:hover,
@@ -98,11 +99,11 @@ body {
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+  /*color: #434455;*/
 }
 /*==Ourteam==*/
-.light-bg{
-  background-color: #F4F4FD;
+.light-bg {
+  background-color: #f4f4fd;
 }
 .team-header {
   font-size: 36px;
@@ -125,7 +126,7 @@ body {
   letter-spacing: 0.02em;
 }
 .team-decription {
-  color: #434455;
+  /*color: #434455;*/
 
   font-size: 16px;
 
@@ -162,7 +163,7 @@ body {
   font-weight: 400;
   line-height: 1.5; /* 150% */
   letter-spacing: 0.02em;
-  color: #434455;
+  /*color: #434455;*/
 }
 .page-footer {
   background: #2e2f42;
