@@ -44,18 +44,24 @@ body {
   font-style: normal;
 }
 .menu-adress-item {
-  list-style-type: none;
+
 }
 
 .menu-adress-link {
-  font-size: 16px;
+    list-style-type: none;
+}
+.menu-adress-description{
+ font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  text-decoration: none;
+ 
+  
 }
-.menu-adress-link:hover,
-.menu-adress-link:focus {
+.menu-adress-description:hover,
+.menu-adress-description:focus {
   color: #404bbf;
 }
 /* === Hero == */
