@@ -44,21 +44,18 @@ body {
   font-style: normal;
 }
 .menu-adress-item {
-
 }
 
 .menu-adress-link {
-    list-style-type: none;
+  list-style-type: none;
 }
-.menu-adress-description{
- font-size: 16px;
+.menu-adress-description {
+  font-size: 16px;
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
   text-decoration: none;
- 
-  
 }
 .menu-adress-description:hover,
 .menu-adress-description:focus {
@@ -167,6 +164,9 @@ body {
 }
 .portfolio-item {
   list-style-type: none;
+}
+.portfolio-item-list {
+  background: #fff;
 }
 .portfolio-card {
   font-size: 20px;
