@@ -91,7 +91,6 @@ body {
   background: #fff;
 }
 .feature-main-header {
-  /*display: none;*/
 }
 .feature-item {
   list-style-type: none;
@@ -125,6 +124,9 @@ body {
 }
 .team-item {
   list-style-type: none;
+  background-color: #fff;
+}
+.team-item-list {
   background-color: #fff;
 }
 .team-name {
@@ -170,7 +172,7 @@ body {
 .portfolio-text {
   font-size: 16px;
   font-weight: 400;
-  line-height: 1.5; /* 150% */
+  line-height: 1.5;
   letter-spacing: 0.02em;
   /*color: #434455;*/
 }
