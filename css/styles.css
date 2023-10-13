@@ -91,7 +91,7 @@ body {
   background: #fff;
 }
 .feature-main-header {
-  display: none;
+  /*display: none;*/
 }
 .feature-item {
   list-style-type: none;
